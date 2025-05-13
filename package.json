@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node setup-assets.js && vite build",
+    "prebuild": "node setup-assets.js",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "setup-assets": "node setup-assets.js"
