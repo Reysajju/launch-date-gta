@@ -1,0 +1,14 @@
+# Keep this directory in Git
+# But ignore large media files
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.flv
+*.webm
+*.mkv
+*.m4v
+*.3gp
+*.mpeg
+*.mpg
+*.vob
