@@ -23,27 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 .env
-
-# Large media files
-*.mp4
-*.mov
-*.avi
-*.wmv
-*.flv
-*.webm
-*.mkv
-*.m4v
-*.3gp
-*.mpeg
-*.mpg
-*.ts
-*.vob
-
-# Large image files
-*.psd
-*.ai
-*.tif
-*.tiff
-
-# GTAVI_Videos directory
-GTAVI_Videos/
